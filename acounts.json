@@ -1,0 +1,21 @@
+{
+  "my_amount": 3000,
+  "my_address":"212462E208F12C57520AD37C68E987B9",
+  "accounts": [
+    {
+      "amount": 1200,
+      "owner_address": "112462E208F12C57520AD37C68E987B9"
+    },
+    {
+      "amount": 3400,
+      "owner_address": "113462E208F12C57520AD37C68E987B9"
+
+    },
+    {
+      "amount": 5600.0,
+      "owner_address": "114462E208F12C57520AD37C68E987B9"
+
+    }
+  ]
+
+}
